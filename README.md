@@ -1,4 +1,4 @@
-# [Argon Dashboard React](https://www.creative-tim.com/product/argon-dashboard-react?AFFILIATE=128200) 
+# [Argon Dashboard React](https://www.creative-tim.com/product/argon-dashboard-react?AFFILIATE=128200)
 
 
 > Open-source **React Dashboard** coded on top of [Argon Design](https://appseed.us/argon-design) by Creative-Tim.
